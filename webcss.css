@@ -1,0 +1,30 @@
+
+  .ui-action-input {
+      font-family: Courier, monospace;
+      margin-top: 46px;
+      margin-left: 15px;
+  }
+  strong {
+      font-family: Verdana, Geneva, sans-serif;;
+  }
+  .navbar-brand strong {
+      font-size: 50px;
+  }
+  .navbar-brand img {
+      margin-bottom: 27px;
+      margin-right: 10px;
+  }
+  .content-tentang {
+      margin: 20px;
+      border: 5px solid red;
+  }
+  .beranda {
+      margin: 30px;
+  }
+  .button-info {
+      font-family: monospace;
+      font-style: oblique;
+      font-weight: bolder;
+      color:black;
+      background-color: wheat;
+  }
